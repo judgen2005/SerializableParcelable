@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SerializableParcelable</string>
+    <string name="save_button">Сохранить</string>
+    <string name="first_name_hint">Имя</string>
+    <string name="last_name_hint">Фамилия</string>
+    <string name="address_hint">Адрес</string>
+    <string name="phone_hint">Телефон</string>
+    <string name="details_title">Детальная информация</string>
+    <string name="button_back">Вернуться на основной экран</string>
+</resources>
